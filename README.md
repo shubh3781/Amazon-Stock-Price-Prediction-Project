@@ -35,7 +35,7 @@ Stock price prediction is a crucial aspect of financial analytics, offering valu
 
 ## Dataset Description
 
-The dataset (`Stock Market Dataset.csv`) contains historical data on various commodities, stocks, and indices from January 29, 2024, to February 2, 2024, totaling 1,243 entries with 39 columns. Key data points include:
+The dataset (`Stock_Market_Dataset.csv`) contains historical data on various commodities, stocks, and indices from January 29, 2024, to February 2, 2024, totaling 1,243 entries with 39 columns. Key data points include:
 
 - **Commodity Prices and Volumes**: Natural Gas, Crude Oil, Copper, Gold, Silver, Platinum.
 - **Cryptocurrency Prices and Volumes**: Bitcoin, Ethereum.
@@ -112,7 +112,7 @@ The project successfully developed a predictive model for Amazon's stock price u
 
 ```
 ├── README.md
-├── Stock Market Dataset.csv
+├── Stock_Market_Dataset.csv
 ├── Amazon_Stock_Prediction_Model.ipynb  # Jupyter Notebook with code and analysis
 ├── images                               # Directory for visualizations and plots
 └── requirements.txt                     # Python dependencies
